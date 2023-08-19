@@ -4,12 +4,12 @@ title: Proj4
 description:
 img: assets/img/1.jpg
 importance: 3
-category: work
+category: ⚝
 ---
 
-(In progress) Project on soft materials liquid skin with Pengfei Song and Xiaoyan Wang at Xijiao Liverpool University.
+(In progress) Project on soft materials liquid skin with Prof. Pengfei Song and Dr. Xiaoyan Wang at Xi'an Jiaotong-Liverpool University.
 
-My Professor of this project.
+My professor of this project: Prof. Peifei Song.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj4/pic1.png" title="example image" class="img-fluid rounded z-depth-1" %}

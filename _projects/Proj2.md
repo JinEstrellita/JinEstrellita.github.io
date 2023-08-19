@@ -4,7 +4,7 @@ title: Proj2
 description:
 img: assets/img/1.jpg
 importance: 3
-category: work
+category: ⚝
 ---
 
 (In progress) Tumour drug screening Prof Wang Hui, in collaboration with postgraduate students, is doing mask version, organ-on-a-chip, microfluidics, microspheres, etc., and will add some biological experiments in time. We are doing oncology drug screening on osteosarcoma cells and trying to explore the inhibitory and promotional effects of different factors such as α7nACh on tumours.
@@ -16,7 +16,6 @@ This is the final version of the designed microfluidic chip, which is divided in
     </div>
 </div>
 <div class="caption">
-    Fig.1
 </div>
 
 Cells were cultured and passaged, mouse tumour cells were cultured, tumour cells were seeded on the fibula of mice and cultured, and after a period of time the desired osteosarcoma cells were extracted from the mice.
@@ -35,7 +34,6 @@ Cells were cultured and passaged, mouse tumour cells were cultured, tumour cells
     </div>
 </div>
 <div class="caption">
-    Fig.2
 </div>
 
 <div class="row">
@@ -53,5 +51,4 @@ Cells were cultured and passaged, mouse tumour cells were cultured, tumour cells
     </div>
 </div>
 <div class="caption">
-    Fig.3
 </div>
