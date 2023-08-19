@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Jinxing Li, I am an undergraduate student from Xi'an Jiaotong-Liverpool University. 
+Hi there! :wave:, I am Jinxing Li, I am an undergraduate student from Xi'an Jiaotong-Liverpool University. 
 
 I will graduate in June of next year and plan to further my study in the field of Environmental Science, Biomedical Sciences, and Microsystems. I conduct multidisciplinary researches.
