@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Proj4
+title: Soft Materials and Liquid Skin
+
 description:
-img: assets/img/1.jpg
+img: assets/img/proj4/pic0.png
 importance: 3
 category: ⚝
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Brain
+title: Brain-computer Interface and Electrode
 description:
-img: assets/img/1.jpg
+img: assets/img/proj1/pic0.png
 importance: 3
 category: ⚝
 ---

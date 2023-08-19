@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Proj2
+title: Drug Screening for Osteosarcoma
 description:
-img: assets/img/1.jpg
+img: assets/img/proj2/pic0.png
 importance: 3
 category: ⚝
 ---

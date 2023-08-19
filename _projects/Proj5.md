@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Proj5
+title: Wearable Continuous Lactate Monitoring Device
 description:
-img: assets/img/1.jpg
-importance: 3
+img: assets/img/proj5/pic0.png
+importance: 2
 category: ⚝
 ---
 

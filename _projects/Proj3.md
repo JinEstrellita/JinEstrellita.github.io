@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Proj3
+title: Greenhouse and Selenium
 description:
-img: assets/img/1.jpg
-importance: 3
+img: assets/img/proj3/pic0.png
+importance: 1
 category: ⚝
 ---
 
